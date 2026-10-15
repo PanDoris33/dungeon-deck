@@ -1,0 +1,35 @@
+{
+ "name": "Dungeon Deck",
+ "short_name": "Dungeon Deck",
+ "description": "A fantasy RPG deckbuilder: campaign, endless waves and a whole life.",
+ "lang": "en",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#1f1610",
+ "theme_color": "#1f1610",
+ "categories": [
+  "games"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
